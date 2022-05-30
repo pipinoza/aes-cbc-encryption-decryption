@@ -17,4 +17,3 @@ dependencies:
   convert: ^3.0.1
   crypto: ^3.0.2
   cryptography: ^2.0.5
-  rsa_encrypt: ^2.0.0
