@@ -1,2 +1,2 @@
-# aes-cbs-encryption-decryption
-AES CBS Encryption and decryption between Laravel and Flutter/Dart
+# aes-cbc-encryption-decryption
+AES CBC Encryption and decryption between Laravel and Flutter/Dart
